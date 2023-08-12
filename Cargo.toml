@@ -1,0 +1,14 @@
+[package]
+name = "auto_farm"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+enigo = "0.1.2"
+image = "0.24.7"
+leptess = "0.14.0"
+repng = "0.2.2"
+scrap = "0.5.0"
+screenshots = "0.7.2"
